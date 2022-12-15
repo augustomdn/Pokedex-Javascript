@@ -10,7 +10,7 @@ body {
 
 .content {
     padding: 1rem;
-    background-color: #97e8e9;
+    background-color: #fff;
     width: 100vw;
     height: 100vh;
 
@@ -180,6 +180,7 @@ body {
     border-radius: 15px;
     padding: .50rem;
     cursor: pointer;
+    width: 150px;
 }
 
 
